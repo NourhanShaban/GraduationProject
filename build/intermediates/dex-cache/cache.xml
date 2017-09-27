@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\NORHAN\Desktop\AndroidFacebook-master2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="169acfe28fb91b7dcdbff8dac01127da17d7c194">
+        <dex dex="C:\Users\NORHAN\Desktop\AndroidFacebook-master2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c3d12b2e3eeed137e164e08d4cdc61bac4188d62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NORHAN\Desktop\AndroidFacebook-master2 - Copy\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41fd89e0846270fa94444a59db56d515b045e6dd">
+        <dex dex="C:\Users\NORHAN\Desktop\AndroidFacebook-master2 - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_54ba7f9b672bfa63a7ea6976057562845b52c521\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NORHAN\Desktop\AndroidFacebook-master2 - Copy\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee1bd47653edb1cd23300acc16f2aa999e1efc0c">
+        <dex dex="C:\Users\NORHAN\Desktop\AndroidFacebook-master2 - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d5b296bbe0a511a25ade233a7b78e981010115bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NORHAN\Desktop\AndroidFacebook-master2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d9148e781076d8aed241dfaed2816b00d4475497">
+        <dex dex="C:\Users\NORHAN\Desktop\AndroidFacebook-master2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_594f4c189378d372c3d933a7eaa82c71d6d7f990\classes.dex" />
+    </item>
+
+</items>

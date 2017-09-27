@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:padding="10dp">
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:gravity="left"
+		android:textSize="13sp"
+		android:textColor="#fff"
+		android:text="post"/>
+		
+	<EditText
+		android:id="@+id/revieew"
+		android:layout_marginTop="15dp"
+		android:layout_width="250dp"
+		android:layout_height="100dp"
+		android:hint="Write your review"/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:gravity="left"
+		android:textSize="13sp"
+		android:textColor="#fff"
+		android:text="Logged in as:"/>
+		
+	<CheckBox
+		android:id="@+id/cb_facebook"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="10dp"
+		android:layout_marginLeft="5dp"
+		android:text="  Facebook"
+		android:textSize="14sp"
+		android:clickable="true"
+		android:focusable="true" 
+		android:button="@drawable/btn_check_facebook"/>
+
+	<Button
+		android:id="@+id/button1"
+		android:layout_marginTop="0dp"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="    Submit    "/>
+
+	<Button
+		android:text="Get Posts"
+		android:layout_marginTop="15dp"
+		android:layout_marginRight="0dp"
+		android:layout_marginLeft="0dp"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/button2" />
+
+	<ListView
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_marginTop="15dp"
+		android:layout_marginRight="0dp"
+		android:layout_marginLeft="0dp"
+		android:id="@+id/list1"/>
+
+
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidFacebook</string>
+    <string name="facebook_app_id">259732484519156</string>
+    <string name="hello">Hello World, AndroidFacebookActivity!</string>
+</resources>

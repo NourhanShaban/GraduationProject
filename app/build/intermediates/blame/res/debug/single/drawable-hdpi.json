@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\NORHAN\\Desktop\\Facebook operation - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_facebook_off.png",
+        "source": "C:\\Users\\NORHAN\\Desktop\\Facebook operation - Copy\\app\\src\\main\\res\\drawable-hdpi\\ic_facebook_off.png"
+    },
+    {
+        "merged": "C:\\Users\\NORHAN\\Desktop\\Facebook operation - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Users\\NORHAN\\Desktop\\Facebook operation - Copy\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\NORHAN\\Desktop\\Facebook operation - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\facebook_icon.png",
+        "source": "C:\\Users\\NORHAN\\Desktop\\Facebook operation - Copy\\app\\src\\main\\res\\drawable-hdpi\\facebook_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\NORHAN\\Desktop\\Facebook operation - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_facebook_on.png",
+        "source": "C:\\Users\\NORHAN\\Desktop\\Facebook operation - Copy\\app\\src\\main\\res\\drawable-hdpi\\ic_facebook_on.png"
+    }
+]
